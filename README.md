@@ -17,5 +17,6 @@
 
 <h3 align="left">Connect with me</h3>
 <div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Fadhil%20Abyansyah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/muhammad-fadhil-abyansyah/)](https://www.linkedin.com/in/muhammad-fadhil-abyansyah/) [![Instagram Badge](https://img.shields.io/badge/-takasicode-blue?style=social&logo=Instagram&link=https://www.instagram.com/emfadhil29/)](https://www.instagram.com/emfadhil29/)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Fadhil%20Abyansyah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/takasicode/)](https://www.linkedin.com/in/muhammad-fadhil-abyansyah/) 
+[![Instagram Badge](https://img.shields.io/badge/-takasicode-blue?style=social&logo=Instagram&link=https://www.instagram.com/emfadhil29/)](https://www.instagram.com/emfadhil29/)
 </div>

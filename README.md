@@ -5,7 +5,7 @@
 
 <hr />
 
-<h3 align="left">Github Stats</h3>
+# 📊 GitHub Stats:
 <p>
   <tr>  
     <td><img src="https://github-readme-stats.vercel.app/api?username=takasicode&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
@@ -16,4 +16,4 @@
 <hr />
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8188) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emfadhil29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhil-abyansyah) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhil-abyansyah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emfadhil29) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8188) 

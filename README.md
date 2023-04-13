@@ -3,6 +3,8 @@
  
 <span style="font-size:40px">Halo! Saya Muhammad Fadhil Abyansyah seorang mahasiswa Teknik Informatika di Universitas Dian Nuswantoro Semarang. Saat ini saya sedang fokus belajar Front-End Web Development.</span>
 
+<hr />
+
 <h3 align="left">Github Stats</h3>
 <p>
   <tr>  
@@ -11,8 +13,9 @@
   </tr>
 </p>
 
+<hr />
+
 <h3 align="left">Connect with me</h3>
 <div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Fadhil%20Abyansyah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/muhammad-fadhil-abyansyah/)](https://www.linkedin.com/in/muhammad-fadhil-abyansyah/) 
-[![Instagram Badge](https://img.shields.io/badge/-takasicode-blue?style=social&logo=Instagram&link=https://www.instagram.com/emfadhil29/)](https://www.instagram.com/emfadhil29/)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Fadhil%20Abyansyah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/muhammad-fadhil-abyansyah/)](https://www.linkedin.com/in/muhammad-fadhil-abyansyah/) [![Instagram Badge](https://img.shields.io/badge/-takasicode-blue?style=social&logo=Instagram&link=https://www.instagram.com/emfadhil29/)](https://www.instagram.com/emfadhil29/)
 </div>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadhil Muhammad</h1>
 <h3 align="center">A passionate front-end web developer</h3>
  
-<span style="font-size:40px">Halo! Saya Muhammad Fadhil Abyansyah seorang mahasiswa Teknik Informatika di Universitas Dian Nuswantoro Semarang. Saat ini saya sedang fokus belajar Front-End Web Development.</span>
+<span style="font-size:40px">I'm Muhammad Fadhil Abyansyah, an Informatics Engineering student at Dian Nuswantoro University, Semarang. Currently I'm focusing on learning Front-End Web Development.</span>
 
 <hr />
 
@@ -16,7 +16,8 @@
 <hr />
 
 <h3 align="left">Connect with me</h3>
-<div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Fadhil%20Abyansyah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/takasicode/)](https://www.linkedin.com/in/muhammad-fadhil-abyansyah/) 
-[![Instagram Badge](https://img.shields.io/badge/-takasicode-blue?style=social&logo=Instagram&link=https://www.instagram.com/emfadhil29/)](https://www.instagram.com/emfadhil29/)
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-fadhil-abyansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-fadhil-abyansyah" height="30" width="40" /></a>
+<a href="https://instagram.com/emfadhil29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emfadhil29" height="30" width="40" /></a>
+<a href="https://discord.gg/8188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8188" height="30" width="40" /></a>
+</p>

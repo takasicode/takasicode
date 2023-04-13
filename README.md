@@ -9,7 +9,7 @@
 <p>
   <tr>  
     <td><img src="https://github-readme-stats.vercel.app/api?username=takasicode&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takasicode&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="200"/</td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takasicode&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/</td>
   </tr>
 </p>
 

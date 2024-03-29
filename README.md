@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>, I'm Muhammad Fadhil Abyansyah</h1>
 <h3 align="center">Front-End Web Developer</h3>
-<p>I am a passionate Informatics Engineering student at <a href="https://dinus.ac.id/">Universitas Dian Nuswantoro</a>, with a keen interest in Web Development. My current focus is on mastering various aspects of Web Development, aiming to build engaging and efficient web applications. I'm dedicated to continuous learning and always eager to explore new technologies in the dynamic field of web technologies. Let's connect <a href="https://www.linkedin.com/in/muhammad-fadhil-abyansyah" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="15" height="15"></a> and collaborate on exciting projects!</p>
+<p>I am interested in Web Development. My current focus is to master various aspects of Front-End Web development, aiming to build engaging and efficient web applications. I am dedicated to continuous learning and always eager to explore new technologies in the dynamic field of web technology. Let's connect <a href="https://www.linkedin.com/in/muhammad-fadhil-abyansyah" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="15" height="15"></a> and collaborate on exciting projects!</p>
 
 <hr/>
 

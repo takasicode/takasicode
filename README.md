@@ -12,13 +12,13 @@
 - 💡 I'm interested in **Web Development**
 
 - 🌐 I'm tech savvy **React JS and Laravel**
-- 
+
 - 💻 I’m currently learning **Next JS**
-- 
+
 - 📝 I write articles on **[Medium](https://medium.com/@fadhilabyansyah)**
-- 
+ 
 - 🔗 Let's connect with me **[LinkedIn](https://www.linkedin.com/in/muhammad-fadhil-abyansyah/)**
-- 
+
 - 📩 How to reach me **infofadhil29@gmail.com**
 
 <hr/>

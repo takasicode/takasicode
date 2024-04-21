@@ -1,12 +1,17 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="Image Header" ></p>
 
-<p align="center">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>, I'm Muhammad Fadhil Abyansyah</h1>
+<h3 align="center">Junior Front-End Web Developer</h3>
+
+<p align="left">
  <img src="https://komarev.com/ghpvc/?username=takasicode&label=Views%20Profile&color=0e75b6&style=flat" alt="takasicode"/>
 </p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>, I'm Muhammad Fadhil Abyansyah</h1>
-<h3 align="center">Front-End Web Developer</h3>
-<p>I am interested in Web Development. My current focus is to master various aspects of Front-End Web development, aiming to build engaging and efficient web applications. I am dedicated to continuous learning and always eager to explore new technologies in the dynamic field of web technology. Let's connect <a href="https://www.linkedin.com/in/muhammad-fadhil-abyansyah" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="15" height="15"></a> and collaborate on exciting projects!</p>
+- 💡 I'm interested in **Web Development**
+- 🌐 I'm tech savvy **React JS and Laravel**
+- 💻 I’m currently learning **Next JS**
+- 📝 I write articles on **[Medium](https://medium.com/@fadhilabyansyah)**
+- 🔗 Let's connect with me **[LinkedIn](https://www.linkedin.com/in/muhammad-fadhil-abyansyah/)**
+- 📩 How to reach me **infofadhil29@gmail.com**
 
 <hr/>
 

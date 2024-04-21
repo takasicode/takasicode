@@ -3,14 +3,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>, I'm Muhammad Fadhil Abyansyah</h1>
 <h3 align="center">Junior Front-End Web Developer</h3>
 
+<hr/>
+
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=takasicode&label=Views%20Profile&color=0e75b6&style=flat" alt="takasicode"/>
 </p>
+
 - 💡 I'm interested in **Web Development**
+
 - 🌐 I'm tech savvy **React JS and Laravel**
+- 
 - 💻 I’m currently learning **Next JS**
+- 
 - 📝 I write articles on **[Medium](https://medium.com/@fadhilabyansyah)**
+- 
 - 🔗 Let's connect with me **[LinkedIn](https://www.linkedin.com/in/muhammad-fadhil-abyansyah/)**
+- 
 - 📩 How to reach me **infofadhil29@gmail.com**
 
 <hr/>

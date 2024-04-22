@@ -11,7 +11,7 @@
 
 - 💡 I'm interested in **Web Development**
 
-- 🌐 I'm tech savvy **React JS and Laravel**
+- 🌐 I'm familiar with **React JS and Laravel**
 
 - 💻 I’m currently learning **Next JS**
 
